@@ -10,7 +10,7 @@ function Home() {
             
 
             <div className="home_row">
-                <Product/>
+                <Product title="The lean startup" price={12.99} image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg" rating={5} />
                 <Product/>
             </div>
 
