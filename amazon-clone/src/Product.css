@@ -6,6 +6,6 @@
 .product > img {
     max-height: 200px;
     width: 100px;
-    /* object-fit: : contain;
-    margin-bottom: 15px; */
+    object-fit: : contain;
+    /* margin-bottom: 15px; */
 }
