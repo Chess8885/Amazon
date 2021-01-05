@@ -12,6 +12,13 @@ function Home() {
                 {/* p1 */}
                 { /* p2 */ }
             </div>
+
+            <div className="home_row">
+                {/* p1 */}
+                { /* p2 */ }
+                { /* p3 */ }
+            </div>
+
         </div>
     )
 }
