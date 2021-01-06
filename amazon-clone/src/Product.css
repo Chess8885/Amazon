@@ -1,12 +1,7 @@
 .product {
     display: flex;
     flex-direction: column;
-    /*background-color: white;*/
-    background: linear-gradient(
-      to bottom right,
-      rgb(235, 195, 217),
-      rgb(188, 217, 235)
-    );
+    background-color: white;
     z-index: 1;
     align-items: center;
     overflow: hidden;
