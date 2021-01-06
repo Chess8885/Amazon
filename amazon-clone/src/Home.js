@@ -63,7 +63,7 @@ const Home = () => {
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
           />   
-        </div>
+      </div>
       </div>
     </div>
   );
